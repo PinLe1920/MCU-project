@@ -20,13 +20,23 @@ ESP32藍牙無線音樂播放器，通過藍牙立體聲音訊傳輸規範（A2D
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_companion_robot.png?raw=true)
 
 ---
-## Design Methodology (設計方法)
-* Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
-* Bottom-Up Design ：由底層軟硬體元件往上組合出上層所需應用功能
+## 材料：
+
+Nodemcu-32S (ESP32)
+
+USB 傳輸線
+
+MAX98357 I2S 音訊放大器模組
+
+小喇叭
+
+杜邦線
 
 ---
-## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
+## 相關知識：
+* **訊號轉換**
+
+藍牙設備從移動設備接收音樂數據時，是無法通過耳機和揚聲器直接播放。需要輸出DAC訊號，藍牙設備需要通過I2S解碼晶片對這些數據進行解碼。這些音頻訊號的功率非常小，只能驅動耳機等小功率音樂收聽設備。必須使用功放晶片放大這些DAC訊號的功率，才能夠驅動功率相對較大的音樂播放設備，如揚聲器。
 
 ---
 ### TAM of Future Home Products
