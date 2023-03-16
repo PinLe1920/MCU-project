@@ -6,18 +6,14 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This homework is to propose an innovative project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
+### ESP32 MP3 藍牙無線音樂播放器 MAX98357音訊放大器
 
 ---
-### Homework Report Format
-**Contents:**<br>
-* **應用與功能說明**
-  - Specify the future home application, and Describe the key features
-  - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
-* **設計考量與所需相關技術**
-  - List all design considerations and the required technologies
-* **系統方塊圖**
-  - Draw a System Block Diagram
+## 實驗說明：
+
+在這篇將示範打造一個ESP32 MP3 Player 藍牙無線音樂播放器。假若使用ESP32自帶的DAC腳位輸出音頻訊號，你會發現聲音明顯失真，所以我們必須要外掛一個MAX98357 I2S 音訊放大器模組，將音頻數據轉碼為立體聲並輸出。
+
+ESP32藍牙無線音樂播放器，通過藍牙立體聲音訊傳輸規範（A2DP）通訊協定，即可經由手機、平板、電腦等完成播放指定的音樂與調節音量，以及如何播放音樂等功能，無需繁瑣的底層作業，使用簡單方便，穩定可靠。
 
 ---
 ### 系統方塊圖
