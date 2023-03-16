@@ -16,8 +16,8 @@ tags: [jekyll, ai]
 ESP32藍牙無線音樂播放器，通過藍牙立體聲音訊傳輸規範（A2DP）通訊協定，即可經由手機、平板、電腦等完成播放指定的音樂與調節音量，以及如何播放音樂等功能，無需繁瑣的底層作業，使用簡單方便，穩定可靠。
 
 ---
-### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_companion_robot.png?raw=true)
+### 系統構造圖
+![](https://raw.githubusercontent.com/PinLe1920/MCU-project/dd039869a8dde632b0808813daa4bca04184f935/images/ESP32_10033-1.png)
 
 ---
 ## 材料：
@@ -37,10 +37,6 @@ MAX98357 I2S 音訊放大器模組
 * **訊號轉換**
 
 藍牙設備從移動設備接收音樂數據時，是無法通過耳機和揚聲器直接播放。需要輸出DAC訊號，藍牙設備需要通過I2S解碼晶片對這些數據進行解碼。這些音頻訊號的功率非常小，只能驅動耳機等小功率音樂收聽設備。必須使用功放晶片放大這些DAC訊號的功率，才能夠驅動功率相對較大的音樂播放設備，如揚聲器。
-
----
-### TAM of Future Home Products
-The Target Market size (TAM) of Future Home Products is the number of household.<br>
 
 ---
 ### Taiwan Households = 8.93M (台灣 9百萬戶）
