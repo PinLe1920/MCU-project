@@ -9,7 +9,7 @@ tags: [home, ai, auto]
 
 ## ESP32居家中央自動化控制器
 
-- - -
+---
 ### 應用與功能說明
 * **主要功能描述**
 
@@ -57,7 +57,7 @@ tags: [home, ai, auto]
 ### 系統方塊圖
 ![](https://raw.githubusercontent.com/PinLe1920/MCU-project/59219c268588db5e3df99360f4a28cc20940cc80/images/減肥小妙招-2.jpg)
 
-___
+---
 ## 補充
 ---
 ### 設備說明
@@ -88,7 +88,7 @@ ___
 
 藍牙設備從移動設備接收音樂數據時，是無法通過耳機和揚聲器直接播放。需要輸出DAC訊號，藍牙設備需要通過I2S解碼晶片對這些數據進行解碼。這些音頻訊號的功率非常小，只能驅動耳機等小功率音樂收聽設備。必須使用功放晶片放大這些DAC訊號的功率，才能夠驅動功率相對較大的音樂播放設備，如揚聲器。
 
-___
+---
 ## 參考資料
 [ESP32|米羅科技文創學院]([https://www.runoob.com](https://shop.mirotek.com.tw/category/iot/esp32/))
 
