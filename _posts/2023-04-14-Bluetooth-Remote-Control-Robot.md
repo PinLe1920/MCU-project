@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bluetooth remote control robot
+title: Bluetooth Remote Control Robot
 author: [Shih-Cheng Chang]
 category: [Lecture]
 tags: [robot, bluetooth, remote]
@@ -25,6 +25,7 @@ tags: [robot, bluetooth, remote]
 ![](https://raw.githubusercontent.com/PinLe1920/MCU-project/c07df1a5702b0b1b2805957f8abae100a8a9b037/images/螢幕擷取畫面%20(2).jpg)
 ![](https://raw.githubusercontent.com/PinLe1920/MCU-project/c07df1a5702b0b1b2805957f8abae100a8a9b037/images/螢幕擷取畫面%20(3).jpg)
 ![](https://raw.githubusercontent.com/PinLe1920/MCU-project/c07df1a5702b0b1b2805957f8abae100a8a9b037/images/螢幕擷取畫面%20(4).jpg)
+
 ---
 ### 手機控制介面
 
@@ -33,7 +34,7 @@ tags: [robot, bluetooth, remote]
 ---
 ### 實際操作影片
 
-<iframe width="640" height="360" src="https://youtube.com/shorts/SY8bPD901Fc?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SY8bPD901Fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 <br>
