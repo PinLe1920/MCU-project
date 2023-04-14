@@ -33,7 +33,7 @@ tags: [robot, bluetooth, remote]
 ---
 ### 實際操作影片
 
-![](https://youtube.com/shorts/SY8bPD901Fc?feature=share)
+<iframe width="640" height="360" src="https://youtube.com/shorts/SY8bPD901Fc?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 <br>
