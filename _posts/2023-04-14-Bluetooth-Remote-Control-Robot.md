@@ -46,11 +46,12 @@ tags: [robot, bluetooth, remote]
 ![](https://raw.githubusercontent.com/PinLe1920/MCU-project/b668cdf07aeaa2fd0da286effe1e9752fd407a8e/images/ahdai-jmmsk.png)
 
 ---
-### Arduino Code(Wi-Fi版)
+### Arduino Code(Bluetooth版)
 
-![](https://raw.githubusercontent.com/PinLe1920/MCU-project/c07df1a5702b0b1b2805957f8abae100a8a9b037/images/螢幕擷取畫面%20(2).jpg)
-![](https://raw.githubusercontent.com/PinLe1920/MCU-project/c07df1a5702b0b1b2805957f8abae100a8a9b037/images/螢幕擷取畫面%20(3).jpg)
-![](https://raw.githubusercontent.com/PinLe1920/MCU-project/c07df1a5702b0b1b2805957f8abae100a8a9b037/images/螢幕擷取畫面%20(4).jpg)
+![](https://raw.githubusercontent.com/PinLe1920/MCU-project/246060a2175f403f07dfca1f5409976a96fba7cd/images/螢幕擷取畫面%20(1)%202.jpg)
+![](https://raw.githubusercontent.com/PinLe1920/MCU-project/246060a2175f403f07dfca1f5409976a96fba7cd/images/螢幕擷取畫面%20(2)%202.jpg)
+![](https://raw.githubusercontent.com/PinLe1920/MCU-project/246060a2175f403f07dfca1f5409976a96fba7cd/images/螢幕擷取畫面%20(3)%202.jpg)
+![](https://raw.githubusercontent.com/PinLe1920/MCU-project/246060a2175f403f07dfca1f5409976a96fba7cd/images/螢幕擷取畫面%20(4)%202.jpg)
 
 ---
 ### 手機控制介面
