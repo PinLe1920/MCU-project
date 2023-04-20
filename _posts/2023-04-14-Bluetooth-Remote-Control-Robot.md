@@ -10,6 +10,32 @@ tags: [robot, bluetooth, remote]
 ## 藍牙遙控機器人
 
 ---
+### 應用功能說明
+* **Bluetooth Remote Control App**
+* **Two-Wheel Robocar**
+
+---
+### 設計考量與相關技術
+* **系統設計考量**
+ 1. 操作方式：App Inventer(藍牙介面)
+ 2. 移動方式：兩輪
+ 3. 供電方式：18650鋰電池(3.7V) x2
+ 4. 連接方式：Bluetooth
+
+* **所需相關技術**
+ 1. Bluetooth
+ 2. Arduino程式設計
+
+* **所需相關套件**
+
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/%E8%BB%8A%E8%BB%8A.jpg?raw=true)
+
+---
+### 系統方塊圖
+
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/%E6%B8%9B%E8%82%A5%E5%B0%8F%E5%A6%99%E6%8B%9B-%E5%89%AF%E6%9C%AC.jpg?raw=true)
+
+---
 ### 遙控車外觀
 * **主外觀**
 
