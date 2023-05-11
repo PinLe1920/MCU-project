@@ -33,7 +33,7 @@ tags: [ESP32, IoT, webserver]
 ---
 ### 系統方塊圖
 
-![](https://github.com/PinLe1920/MCU-project/blob/main/images/%E6%B8%9B%E8%82%A5%E5%B0%8F%E5%A6%99%E6%8B%9B-%E5%89%AF%E6%9C%AC.jpg?raw=true)
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/減肥小妙招-副本-副本.jpg?raw=true)
 
 ---
 ### 外觀
@@ -62,7 +62,7 @@ tags: [ESP32, IoT, webserver]
 ---
 ### 實際操作影片
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SY8bPD901Fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBti_bH6ZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 <br>
