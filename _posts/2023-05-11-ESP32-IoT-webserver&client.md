@@ -33,7 +33,7 @@ tags: [ESP32, IoT, webserver]
 ---
 ### 系統方塊圖
 
-![](https://github.com/PinLe1920/MCU-project/blob/main/images/減肥小妙招-副本-副本.jpg?raw=true)
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/IOT.jpg?raw=true)
 
 ---
 ### 外觀
