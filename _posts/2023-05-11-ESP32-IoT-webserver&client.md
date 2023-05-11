@@ -38,7 +38,7 @@ tags: [ESP32, IoT, webserver]
 ---
 ### 外觀
 
-![](https://raw.githubusercontent.com/PinLe1920/MCU-project/246060a2175f403f07dfca1f5409976a96fba7cd/images/IMG_4020.HEIC)
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/IMG_4020.jpg?raw=true)
 
 ---
 ### Arduino Code(Bluetooth版)
