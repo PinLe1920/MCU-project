@@ -41,8 +41,8 @@ tags: [ESP32, IoT, webserver]
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/IMG_4020.jpg?raw=true)
 
 ---
-### Arduino Code(Bluetooth版)
-* **WebServer**
+### Arduino Code
+#### WebServer
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(1).png?raw=true)
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(2).png?raw=true)
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(3).png?raw=true)
