@@ -43,8 +43,8 @@ tags: [ESP32, IoT, webserver]
 ---
 ### Arduino Code
 #### WebServer
-![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(1).png?raw=true)
-![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(2).png?raw=true)
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(1).jpg?raw=true)
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(2).jpg?raw=true)
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(3).png?raw=true)
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(4).png?raw=true)
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/WebServer(5).png?raw=true)
@@ -52,7 +52,7 @@ tags: [ESP32, IoT, webserver]
 
 #### Client
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/Webclient(1).png?raw=true)
-![](https://github.com/PinLe1920/MCU-project/blob/main/images/Webclient(2).png?raw=true)
+![](https://github.com/PinLe1920/MCU-project/blob/main/images/Webclient(2).jpg?raw=true)
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/Webclient(3).png?raw=true)
 ---
 ### 網頁介面
