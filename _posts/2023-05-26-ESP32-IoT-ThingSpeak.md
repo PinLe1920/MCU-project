@@ -12,7 +12,7 @@ tags: [ESP32, IoT, ThingSpeak]
 ---
 ### 應用與功能說明
 
-* **ESP32 IoT **
+* **ESP32 IoT**
 * **溫濕度感測器**
 * **物聯網**
 
@@ -52,11 +52,7 @@ tags: [ESP32, IoT, ThingSpeak]
 ![](https://github.com/PinLe1920/MCU-project/blob/main/images/截圖%202023-05-25%20下午7.44.51.png?raw=true)
 
 ---
-### 實際操作影片
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBti_bH6ZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
 <br>
 <br>
 
